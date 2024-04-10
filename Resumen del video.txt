@@ -1,0 +1,17 @@
+INTRODUCCION
+La inteligencia artificial (IA) es un campo de la informática que se enfoca en la creación de sistemas capaces de realizar tareas que normalmente requerirían inteligencia humana. Estos sistemas pueden aprender de datos, reconocer patrones, tomar decisiones y resolver problemas de manera autónoma. La IA ha avanzado significativamente en las últimas décadas y está siendo aplicada en una amplia gama de industrias, desde la atención médica y la automoción hasta el comercio minorista y los servicios financieros. Sin embargo, su rápido desarrollo también plantea importantes preguntas sobre su impacto en el empleo, la ética y la sociedad en general. En este contexto, surge el debate sobre si la IA representa una oportunidad para el crecimiento laboral o un riesgo para la estabilidad del empleo tal como lo conocemos.
+
+RESUMEN
+El documental explora en detalle el impacto de la inteligencia artificial (IA) en el panorama laboral actual, abordando tanto las oportunidades como los desafíos que presenta para diferentes profesiones y trabajadores en todo el mundo.
+
+Comienza destacando cómo la llegada de la IA está transformando radicalmente la naturaleza del empleo, con la eliminación de ciertos trabajos tradicionales mientras crea nuevas oportunidades en otros sectores. Se menciona que, si bien la IA puede ser una amenaza para ciertas profesiones, también ofrece posibilidades para aquellos que están dispuestos a adaptarse y adquirir nuevas habilidades.
+
+Se resaltan las experiencias de individuos cuyos trabajos se ven directamente afectados por la IA, como escritores fantasma o Ghost writers, cuya demanda disminuye debido a la capacidad de la IA para generar contenido textual. Se muestra cómo la introducción de sistemas como ChatGPT ha impactado negativamente en estos profesionales, provocando una disminución en la demanda de sus servicios y dejándolos sin ingresos.
+
+Además, se profundiza en el papel crucial de los anotadores de datos en el entrenamiento y desarrollo de sistemas de IA, destacando cómo estas tareas, que pueden parecer mundanas para algunos, representan una valiosa oportunidad de empleo para muchos en países en desarrollo. Se destaca la importancia de este trabajo para el correcto funcionamiento de los sistemas de IA y se resalta que, sin la contribución humana en la anotación y clasificación de datos, la IA no podría avanzar.
+
+El documental también aborda la situación laboral de los moderadores de contenido en plataformas digitales, quienes están expuestos diariamente a contenido perturbador y a menudo carecen de apoyo profesional para la salud mental. Se resaltan los esfuerzos de algunos de estos trabajadores para mejorar sus condiciones laborales a través de sindicatos y organizaciones sin fines de lucro.
+
+Se ofrecen consejos para adaptarse a los cambios impulsados por la IA, como aprender a utilizar modelos de IA relevantes para el ámbito laboral y mejorar las habilidades de programación, destacando la importancia del inglés como idioma clave en el campo de la IA. Se exploran los avances en la integración de IA en dispositivos móviles y cómo esto podría influir en la forma en que trabajamos en el futuro.
+
+En conclusión, el documental presenta un panorama completo de la interacción entre la IA y el empleo, subrayando tanto las oportunidades emocionantes como los desafíos que esta tecnología presenta en el mercado laboral actual y futuro.
